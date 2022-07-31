@@ -1,7 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
 
-int get_cents(void);
 
 int main(void)
 {
